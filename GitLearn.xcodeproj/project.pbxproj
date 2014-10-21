@@ -14,6 +14,8 @@
 		884D25E419F6BD5500CF7578 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 884D25E319F6BD5500CF7578 /* Images.xcassets */; };
 		884D25E719F6BD5500CF7578 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 884D25E519F6BD5500CF7578 /* LaunchScreen.xib */; };
 		884D25F319F6BD5500CF7578 /* GitLearnTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 884D25F219F6BD5500CF7578 /* GitLearnTests.m */; };
+		88B1EF5719F6CACC004DDE3A /* SecondVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 88B1EF5619F6CACC004DDE3A /* SecondVC.m */; };
+		88B1EF5A19F6CB7C004DDE3A /* ThirdVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 88B1EF5919F6CB7C004DDE3A /* ThirdVC.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +42,10 @@
 		884D25EC19F6BD5500CF7578 /* GitLearnTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitLearnTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		884D25F119F6BD5500CF7578 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		884D25F219F6BD5500CF7578 /* GitLearnTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GitLearnTests.m; sourceTree = "<group>"; };
+		88B1EF5519F6CACC004DDE3A /* SecondVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondVC.h; sourceTree = "<group>"; };
+		88B1EF5619F6CACC004DDE3A /* SecondVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondVC.m; sourceTree = "<group>"; };
+		88B1EF5819F6CB7C004DDE3A /* ThirdVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThirdVC.h; sourceTree = "<group>"; };
+		88B1EF5919F6CB7C004DDE3A /* ThirdVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThirdVC.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +91,10 @@
 				884D25DB19F6BD5500CF7578 /* AppDelegate.m */,
 				884D25DD19F6BD5500CF7578 /* ViewController.h */,
 				884D25DE19F6BD5500CF7578 /* ViewController.m */,
+				88B1EF5519F6CACC004DDE3A /* SecondVC.h */,
+				88B1EF5619F6CACC004DDE3A /* SecondVC.m */,
+				88B1EF5819F6CB7C004DDE3A /* ThirdVC.h */,
+				88B1EF5919F6CB7C004DDE3A /* ThirdVC.m */,
 				884D25E019F6BD5500CF7578 /* Main.storyboard */,
 				884D25E319F6BD5500CF7578 /* Images.xcassets */,
 				884D25E519F6BD5500CF7578 /* LaunchScreen.xib */,
@@ -221,6 +231,8 @@
 			files = (
 				884D25DF19F6BD5500CF7578 /* ViewController.m in Sources */,
 				884D25DC19F6BD5500CF7578 /* AppDelegate.m in Sources */,
+				88B1EF5A19F6CB7C004DDE3A /* ThirdVC.m in Sources */,
+				88B1EF5719F6CACC004DDE3A /* SecondVC.m in Sources */,
 				884D25D919F6BD5500CF7578 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -412,6 +424,7 @@
 				884D25F819F6BD5500CF7578 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		884D25F919F6BD5500CF7578 /* Build configuration list for PBXNativeTarget "GitLearnTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +433,7 @@
 				884D25FB19F6BD5500CF7578 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
