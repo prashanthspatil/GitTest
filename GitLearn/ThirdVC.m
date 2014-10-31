@@ -58,14 +58,5 @@
 }
 */
 
-- (void)fifthFunction
-{
-    
-}
-
-- (void)sixthFunction
-{
-    
-}
 
 @end
