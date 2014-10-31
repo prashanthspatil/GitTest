@@ -38,6 +38,16 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (void)thirdFunction
+{
+    
+}
+
+- (void)fourthFunction
+{
+    
+}
+
 /*
 #pragma mark - Navigation
 
@@ -47,5 +57,15 @@
     // Pass the selected object to the new view controller.
 }
 */
+
+- (void)fifthFunction
+{
+    
+}
+
+- (void)sixthFunction
+{
+    
+}
 
 @end
