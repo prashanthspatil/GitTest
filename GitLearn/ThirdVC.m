@@ -74,6 +74,12 @@
     //sixthFunction
     
     // No.1
+    
+    // No.2
+    
+    // No.3
+    
+    // No.4
 }
 
 - (void)seventhFunction
@@ -85,11 +91,15 @@
     // No.2
     
     // No.3
+    
+    // No.4
 }
 
 - (void)eighthFunction
 {
     //eighthFunction
+    
+    // No.1
 }
 
 /*
@@ -104,7 +114,7 @@
 
 - (void)ninthFunction
 {
-    
+    // No.1
 }
 
 
