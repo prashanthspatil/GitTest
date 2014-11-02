@@ -45,7 +45,27 @@
 
 - (void)fourthFunction
 {
-    
+    //fourthFunction
+}
+
+- (void)fifthFunction
+{
+    //fifthFunction
+}
+
+- (void)sixthFunction
+{
+    //sixthFunction
+}
+
+- (void)seventhFunction
+{
+    //seventhFunction
+}
+
+- (void)eighthFunction
+{
+    //eighthFunction
 }
 
 /*
@@ -57,6 +77,11 @@
     // Pass the selected object to the new view controller.
 }
 */
+
+- (void)ninthFunction
+{
+    
+}
 
 
 @end
