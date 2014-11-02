@@ -72,11 +72,15 @@
 - (void)sixthFunction
 {
     //sixthFunction
+    
+    // No.1
 }
 
 - (void)seventhFunction
 {
     //seventhFunction
+    
+    // No.1
 }
 
 - (void)eighthFunction
