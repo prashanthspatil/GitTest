@@ -28,6 +28,11 @@
     //oneFunction
     
     // No.1
+        
+    // No.3
+    
+    // No.6
+    
 }
 
 - (void)twoFunction
