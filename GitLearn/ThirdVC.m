@@ -25,12 +25,16 @@
 
 - (void)oneFunction
 {
+    //oneFunction
     
+    // No.1
 }
 
 - (void)twoFunction
 {
+    //twoFunction
     
+    // No.1
 }
 
 - (void)didReceiveMemoryWarning {
@@ -40,16 +44,14 @@
 
 - (void)thirdFunction
 {
+    //thirdFunction
     
+    // No.1
 }
 
 - (void)fourthFunction
 {
     //fourthFunction
-    
-    //changed but should not be seen
-    
-    //changed but should not be seen
     
     //changed but should not be seen
 }
@@ -59,14 +61,6 @@
     //fifthFunction
     
     //changed but should be seen
-    
-    //changed but should be seen
-    
-    //changed but should be seen
-    
-    //changed but should be seen
-    
-    //changed but should be seen
 }
 
 - (void)sixthFunction
@@ -74,12 +68,6 @@
     //sixthFunction
     
     // No.1
-    
-    // No.2
-    
-    // No.3
-    
-    // No.4
 }
 
 - (void)seventhFunction
@@ -87,12 +75,6 @@
     //seventhFunction
     
     // No.1
-    
-    // No.2
-    
-    // No.3
-    
-    // No.4
 }
 
 - (void)eighthFunction
@@ -114,6 +96,8 @@
 
 - (void)ninthFunction
 {
+    //ninthFunction
+    
     // No.1
 }
 
